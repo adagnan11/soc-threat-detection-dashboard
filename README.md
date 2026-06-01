@@ -14,7 +14,7 @@ The system analyzes network traffic datasets, detects malicious activity, classi
 
 ### Threat Analytics
 
-![Threat Analytics](threat-analytics.png)
+![Threat Analytics](screenshots/threat-analytics.png)
 ### MITRE ATT&CK Mapping
 
 ![MITRE](screenshots/mitre-mapping.png)
