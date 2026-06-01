@@ -10,7 +10,7 @@ The system analyzes network traffic datasets, detects malicious activity, classi
 
 ### Main Dashboard
 
-![Dashboard](screenshots/dashboard-home.png)
+![Dashboard](dashboard-home.png)
 
 ### Threat Analytics
 
