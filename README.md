@@ -6,6 +6,19 @@ The SOC Threat Detection Dashboard is a SIEM-inspired cybersecurity analytics pl
 
 The system analyzes network traffic datasets, detects malicious activity, classifies attack severity, maps threats to MITRE ATT&CK techniques, and visualizes cybersecurity threats through an interactive dashboard.
 
+## Dashboard Screenshots
+
+### Main Dashboard
+
+![Dashboard](screenshots/dashboard-home.png)
+
+### Threat Analytics
+
+![Threat Analytics](screenshots/threat-chart.png)
+
+### MITRE ATT&CK Mapping
+
+![MITRE](screenshots/mitre-mapping.png)
 ---
 
 ## Features
